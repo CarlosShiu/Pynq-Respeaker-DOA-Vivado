@@ -11,3 +11,5 @@ Vivado 2018.2/MobaXterm/Chrome Browser
 ## Quick Start
 - add ip to your project
 - source doa_top.tcl
+## Note
+This demo was built on 2019 Xilinx Summer Camp
