@@ -5,6 +5,9 @@ The detailed process can be referred to [https://github.com/xupsh/pynq-respeaker
 ## Software Platform
 Vivado 2018.2/MobaXterm/Chrome Browser
 ## File Structure
--/ip：
--/src：
--/jupyternotebook：
+- /ip：user-ip for this demo.
+- /src：the tcl to build block diagram.
+- /jupyternotebook：
+## Quick Start
+- add ip to your project
+- source doa_top.tcl
